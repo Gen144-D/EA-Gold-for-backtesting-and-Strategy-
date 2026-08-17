@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31125292/README.md)
+
 # 🏆 EA Gold Backtesting & Strategy Framework
 
 A minimal, high-performance setup utilizing **React**, **TypeScript**, and **Vite** with Fast HMR and structured ESLint rules. This repository is specifically tailored for building front-end user interfaces, backtesting workflows, and data visualizations for the **EA Gold (XAUUSD)** automated trading strategy.
